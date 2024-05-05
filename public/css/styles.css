@@ -4,3 +4,8 @@
 *:after {
   box-sizing: border-box;
 }
+
+
+main h1 {
+  color: red;
+}
